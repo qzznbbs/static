@@ -326,7 +326,7 @@ jQuery.extend({
 				}
 			};
 
-			var maxheight = 500;
+			var maxheight = 1600;
 			var maxwidth = 500;
 			var canvas = document.createElement('canvas');
 			var ctx = canvas.getContext('2d');
